@@ -28,13 +28,13 @@ namespace Test1
         private static void STD1A()
         {
             _12_0328009_LyubenKikov();
-            // code goes here
+            // your code goes here
         }
 
         private static void STD3A()
         {
             _7_II_0328009_LyubenKikov();
-            // code goes here
+            // your code goes here
         }
 
         #endregion
