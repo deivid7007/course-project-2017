@@ -4,10 +4,7 @@
     Преобразувайте числото от десетична в двоична, осмична и шестнайсетична бройна система. 
     Решенията се приемат само ако сметките са разписани (частно,остатък...).
 
-    1. Name method like: 
-    _12_0328009_LyubenKikov 
-    or 
-    _7_II_0328009_LyubenKikov
+    1. Name method like: _0328009_LyubenKikov     
     2. Include it in your group method
     3. Implementation of the task should be placed in 'Private methods' region
     */
@@ -19,22 +16,29 @@
             STD3A();
         }
 
-        #region Groups
+          #region Groups
 
         private static void STD1A()
         {
-            // code goes here
+            _0328009_LyubenKikov();
+            // your code goes here
         }
 
         private static void STD3A()
         {
-            // code goes here
+            _0328009_LyubenKikov();
+            // your code goes here
         }
 
         #endregion
 
         #region Private methods
 
+        private static void _0328009_LyubenKikov()
+        {
+            Console.WriteLine("Hello!");
+        }
+        
         #endregion
 
     }
