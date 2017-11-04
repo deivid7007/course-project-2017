@@ -1,8 +1,15 @@
 ﻿namespace NumeralSystems
 {
     /*
-     Преобразувайте числото от десетична в двоична, осмична и шестнайсетична бройна система. 
-     Решенията се приемат само ако сметките са разписани (частно,остатък...).
+    Преобразувайте числото от десетична в двоична, осмична и шестнайсетична бройна система. 
+    Решенията се приемат само ако сметките са разписани (частно,остатък...).
+
+    1. Name method like: 
+    _12_0328009_LyubenKikov 
+    or 
+    _7_II_0328009_LyubenKikov
+    2. Include it in your group method
+    3. Implementation of the task should be placed in 'Private methods' region
     */
     class Program
     {
