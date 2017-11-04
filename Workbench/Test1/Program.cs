@@ -8,9 +8,9 @@ namespace Test1
 {
     /*
         1. Name method like: 
-        12_0328009_LyubenKikov 
+        _12_0328009_LyubenKikov 
         or 
-        7_II_0328009_LyubenKikov
+        _7_II_0328009_LyubenKikov
 
         2. Include it in your group method
         3. Implementation of the task should be placed in 'Private methods' region
